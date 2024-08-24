@@ -1,5 +1,2 @@
-- 👋 Welcome to the server
+- 👋 WELCOME TO THE SERVER
 - ⚡ BESR BOT ...
-
-<!---
-
